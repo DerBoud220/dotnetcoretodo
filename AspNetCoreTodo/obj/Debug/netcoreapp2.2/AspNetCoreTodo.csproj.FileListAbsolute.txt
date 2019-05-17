@@ -1,0 +1,6 @@
+E:\dotnetcoretodo\dotnetcoretodo\AspNetCoreTodo\obj\Debug\netcoreapp2.2\AspNetCoreTodo.csprojAssemblyReference.cache
+E:\dotnetcoretodo\dotnetcoretodo\AspNetCoreTodo\obj\Debug\netcoreapp2.2\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+E:\dotnetcoretodo\dotnetcoretodo\AspNetCoreTodo\obj\Debug\netcoreapp2.2\AspNetCoreTodo.RazorAssemblyInfo.cache
+E:\dotnetcoretodo\dotnetcoretodo\AspNetCoreTodo\obj\Debug\netcoreapp2.2\AspNetCoreTodo.RazorAssemblyInfo.cs
+E:\dotnetcoretodo\dotnetcoretodo\AspNetCoreTodo\obj\Debug\netcoreapp2.2\AspNetCoreTodo.AssemblyInfoInputs.cache
+E:\dotnetcoretodo\dotnetcoretodo\AspNetCoreTodo\obj\Debug\netcoreapp2.2\AspNetCoreTodo.AssemblyInfo.cs
