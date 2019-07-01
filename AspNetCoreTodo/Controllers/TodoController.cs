@@ -4,7 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using AspNetCoreTodo.Services;
-//pg 30 in littleasp book
+using AspNetCoreTodo.Models;
+//pg 39 in littleasp book
 
 namespace AspNetCoreTodo.Controllers {
     public class TodoController : Controller {
@@ -20,6 +21,9 @@ namespace AspNetCoreTodo.Controllers {
             // put items into a model
             // pass the view to a model and render
             var items = await _todoItemService.GetIncompleteItemsAsync();
-        }
+            var model = new TodoViewModel() {
+                Items = items
+            };
+            return View(model);        }
     }
 }
